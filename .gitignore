@@ -1,3 +1,4 @@
 *.exe
 include/SDL2/*.*
 lib/
+push.bat
